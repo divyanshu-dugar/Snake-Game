@@ -3,6 +3,12 @@
     margin: 0;
 }
 
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
 .body{
     background: url("../img/bg.jpg");
     min-height: 100vh;
@@ -28,8 +34,12 @@
     background-color: red;
 }
 
-.food{
+.snake {
     background-color: purple;
+}
+
+.food{
+    background-color: yellow;
 }
 
 
